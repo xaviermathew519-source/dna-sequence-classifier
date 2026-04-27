@@ -3,7 +3,7 @@
 A machine learning web application that classifies human DNA sequences into gene families using NLP techniques — treating DNA like a natural language.
 
 ## 🚀 Live Demo
-👉 **[Try the app here](your-streamlit-link-here)**
+👉 👉 **[Try the app here](https://dna-sequence-classifier-9rwofnwzx2lmc8jgvgfzw2.streamlit.app/)**
 
 ## 🔬 Background
 Every gene in the human body belongs to a specific gene family that determines its function. Identifying gene families manually in a lab is slow and expensive. This ML model classifies DNA sequences automatically with **97.95% accuracy**.
